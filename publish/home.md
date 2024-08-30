@@ -1,3 +1,3 @@
-# Math Problems
+# Math
 
-These are my math problems.
+All things math.
