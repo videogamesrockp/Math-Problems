@@ -3,4 +3,4 @@ https://mathdash.com/contest/2024-amc-10i
 
 ![[Problem 2024-08-29.excalidraw.png]]
 
-Go back home: [[home]]
+Go back [[home]]
