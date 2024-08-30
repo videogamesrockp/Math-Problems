@@ -1,2 +1,2 @@
-# Math Problems
-Math problems
+# Math
+All things math.
