@@ -1,3 +1,3 @@
-# Notes
+# Math Problems
 
-These are my notes.
+These are my math problems.
