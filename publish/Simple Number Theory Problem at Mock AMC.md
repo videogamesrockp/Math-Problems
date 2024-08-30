@@ -1,0 +1,1 @@
+A simple number theory problem in the Mock AMC 10I 
